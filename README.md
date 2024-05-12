@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou no 3º ano da Habilitação em Técnico de Desenvolvimento de Sistemas Integrado ao Ensino Médio na Etec de São Paulo, trabalhando em meu TCC
 - 🌱 Estou aprendendo sobre Sistemas Embarcados, Protocolos e Segurança de Sistemas da Informação, Programação de Aplicativos Mobile, Programação Web e Qualidade e Teste de Software
-- 👯 Procuro colaborar em projetos envolvendo Flutter, Arduino, Raspberry Pi e Inteligência Artificial
+- 👯 Procuro colaborar em projetos envolvendo React Native, Arduino, Raspberry Pi e Inteligência Artificial
 - 📫 Como chegar até mim: caiodumontfer@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Comecei a programar em 2021, logo depois de participar de uma Imersão Dev da Alura!! (Muito obrigado Leon e Nilce ksksksksksks)
